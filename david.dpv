@@ -1,0 +1,12 @@
+a = 10
+b = a
+a++;
+
+import libm.so.6 sqrt
+
+a += sqrt(4)
+
+b == a
+a == 13
+
+workspace
